@@ -14,3 +14,10 @@ public:
 		cout << "orang dihapus\n" << endl;
 	}
 };
+
+class manusia {
+public:
+	string jenisKelamin;
+
+
+};
